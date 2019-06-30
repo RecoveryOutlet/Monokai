@@ -1,9 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: Monokai feature request
+about: Suggest an idea for Monokai
 
 ---
 
